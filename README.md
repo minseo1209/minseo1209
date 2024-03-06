@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- [GitHub](https://github.com/minseo1209) ![GitHub 아이콘](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white)
-- [Instagram](https://www.instagram.com/xxinssxo/) ![Instagram 아이콘](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minseo1209) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/xxinssxo/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-0078D7?style=flat-square&logo=internet-explorer&logoColor=white)](https://minseoportfolio.netlify.app/)
+
+
+
 
 # 저는 김민서입니다, 소개해드릴게요.  🚀
 
@@ -9,24 +11,22 @@
 
 ## 기술 스택 💻
 
-- **언어**: JavaScript
-- **프론트엔드**: React
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+
+
+## 협업 경험 👥
+
+스마트인재개발원에서 빅데이터분석 서비스 과정을 수강하면서, 팀 프로젝트인 '푸리'를 진행하게 되었습니다.
 
 
 ## 관심 분야 🌐
 
-- TypeScript
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 
 
 ## 연락 방법 📬
 
-- Gmail: [alstj6009@gmail.com](mailto:alstj6009@gmail.com) ![Gmail 아이콘](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)
-- Naver Mail: [ekwjd8873@naver.com](mailto:ekwjd8873@naver.com) ![Naver Mail 아이콘](https://img.shields.io/badge/Naver%20Mail-03C75A?style=social&logo=naver&logoColor=white)
-
-
-## minseo1209의 GitHub 통계 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minseo1209&show_icons=true&count_private=true&theme=dark)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alstj6009@gmail.com)](mailto:alstj6009@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:ekwjd8873@naver.com)
 
 
 더 많은 소통을 원한다면 언제든지 연락해주세요! 함께 여러 프로젝트를 나누고, 서로 발전할 수 있는 기회가 있으면 좋겠습니다. 😄
