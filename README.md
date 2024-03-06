@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minseo1209) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/xxinssxo/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-0078D7?style=flat-square&logo=internet-explorer&logoColor=white)](https://minseoportfolio.netlify.app/)
 
-## 저는 김민서입니다, 소개해드릴게요.  🚀
+## 저는 김민서입니다.
 
 반갑습니다! 😊 제 GitHub 레포지토리에 오신 것을 환영합니다. 저는 프론트엔드 개발에 깊은 관심을 갖고 있으며, 현재 React에 대해 열심히 공부 중입니다.
 
